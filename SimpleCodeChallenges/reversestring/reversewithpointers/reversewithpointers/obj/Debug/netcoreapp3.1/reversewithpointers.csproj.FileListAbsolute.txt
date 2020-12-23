@@ -1,0 +1,13 @@
+C:\Users\Brent Knickerbocker\Documents\GitHub\Demo\SimpleCodeChallenges\reversestring\reversewithpointers\reversewithpointers\bin\Debug\netcoreapp3.1\reversewithpointers.exe
+C:\Users\Brent Knickerbocker\Documents\GitHub\Demo\SimpleCodeChallenges\reversestring\reversewithpointers\reversewithpointers\bin\Debug\netcoreapp3.1\reversewithpointers.deps.json
+C:\Users\Brent Knickerbocker\Documents\GitHub\Demo\SimpleCodeChallenges\reversestring\reversewithpointers\reversewithpointers\bin\Debug\netcoreapp3.1\reversewithpointers.runtimeconfig.json
+C:\Users\Brent Knickerbocker\Documents\GitHub\Demo\SimpleCodeChallenges\reversestring\reversewithpointers\reversewithpointers\bin\Debug\netcoreapp3.1\reversewithpointers.runtimeconfig.dev.json
+C:\Users\Brent Knickerbocker\Documents\GitHub\Demo\SimpleCodeChallenges\reversestring\reversewithpointers\reversewithpointers\bin\Debug\netcoreapp3.1\reversewithpointers.dll
+C:\Users\Brent Knickerbocker\Documents\GitHub\Demo\SimpleCodeChallenges\reversestring\reversewithpointers\reversewithpointers\bin\Debug\netcoreapp3.1\reversewithpointers.pdb
+C:\Users\Brent Knickerbocker\Documents\GitHub\Demo\SimpleCodeChallenges\reversestring\reversewithpointers\reversewithpointers\obj\Debug\netcoreapp3.1\reversewithpointers.csprojAssemblyReference.cache
+C:\Users\Brent Knickerbocker\Documents\GitHub\Demo\SimpleCodeChallenges\reversestring\reversewithpointers\reversewithpointers\obj\Debug\netcoreapp3.1\reversewithpointers.csproj.CoreCompileInputs.cache
+C:\Users\Brent Knickerbocker\Documents\GitHub\Demo\SimpleCodeChallenges\reversestring\reversewithpointers\reversewithpointers\obj\Debug\netcoreapp3.1\reversewithpointers.AssemblyInfoInputs.cache
+C:\Users\Brent Knickerbocker\Documents\GitHub\Demo\SimpleCodeChallenges\reversestring\reversewithpointers\reversewithpointers\obj\Debug\netcoreapp3.1\reversewithpointers.AssemblyInfo.cs
+C:\Users\Brent Knickerbocker\Documents\GitHub\Demo\SimpleCodeChallenges\reversestring\reversewithpointers\reversewithpointers\obj\Debug\netcoreapp3.1\reversewithpointers.dll
+C:\Users\Brent Knickerbocker\Documents\GitHub\Demo\SimpleCodeChallenges\reversestring\reversewithpointers\reversewithpointers\obj\Debug\netcoreapp3.1\reversewithpointers.pdb
+C:\Users\Brent Knickerbocker\Documents\GitHub\Demo\SimpleCodeChallenges\reversestring\reversewithpointers\reversewithpointers\obj\Debug\netcoreapp3.1\reversewithpointers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Brent Knickerbocker\Documents\GitHub\Demo\SimpleCodeChallenges\reversestring\reversestring\reversestring\bin\Debug\netcoreapp3.1\reversestring.exe
+C:\Users\Brent Knickerbocker\Documents\GitHub\Demo\SimpleCodeChallenges\reversestring\reversestring\reversestring\bin\Debug\netcoreapp3.1\reversestring.deps.json
+C:\Users\Brent Knickerbocker\Documents\GitHub\Demo\SimpleCodeChallenges\reversestring\reversestring\reversestring\bin\Debug\netcoreapp3.1\reversestring.runtimeconfig.json
+C:\Users\Brent Knickerbocker\Documents\GitHub\Demo\SimpleCodeChallenges\reversestring\reversestring\reversestring\bin\Debug\netcoreapp3.1\reversestring.runtimeconfig.dev.json
+C:\Users\Brent Knickerbocker\Documents\GitHub\Demo\SimpleCodeChallenges\reversestring\reversestring\reversestring\bin\Debug\netcoreapp3.1\reversestring.dll
+C:\Users\Brent Knickerbocker\Documents\GitHub\Demo\SimpleCodeChallenges\reversestring\reversestring\reversestring\bin\Debug\netcoreapp3.1\reversestring.pdb
+C:\Users\Brent Knickerbocker\Documents\GitHub\Demo\SimpleCodeChallenges\reversestring\reversestring\reversestring\obj\Debug\netcoreapp3.1\reversestring.csprojAssemblyReference.cache
+C:\Users\Brent Knickerbocker\Documents\GitHub\Demo\SimpleCodeChallenges\reversestring\reversestring\reversestring\obj\Debug\netcoreapp3.1\reversestring.csproj.CoreCompileInputs.cache
+C:\Users\Brent Knickerbocker\Documents\GitHub\Demo\SimpleCodeChallenges\reversestring\reversestring\reversestring\obj\Debug\netcoreapp3.1\reversestring.AssemblyInfoInputs.cache
+C:\Users\Brent Knickerbocker\Documents\GitHub\Demo\SimpleCodeChallenges\reversestring\reversestring\reversestring\obj\Debug\netcoreapp3.1\reversestring.AssemblyInfo.cs
+C:\Users\Brent Knickerbocker\Documents\GitHub\Demo\SimpleCodeChallenges\reversestring\reversestring\reversestring\obj\Debug\netcoreapp3.1\reversestring.dll
+C:\Users\Brent Knickerbocker\Documents\GitHub\Demo\SimpleCodeChallenges\reversestring\reversestring\reversestring\obj\Debug\netcoreapp3.1\reversestring.pdb
+C:\Users\Brent Knickerbocker\Documents\GitHub\Demo\SimpleCodeChallenges\reversestring\reversestring\reversestring\obj\Debug\netcoreapp3.1\reversestring.genruntimeconfig.cache
